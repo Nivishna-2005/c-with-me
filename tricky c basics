@@ -1,0 +1,17 @@
+QUESTION 1: EXPECTED OUTPUT : hello world "hi"
+SOLUTION
+     #include<stdio.h>
+     int main()
+     {
+     printf("hello world \"hi\"");
+     return o;
+     }
+   
+QUESTION 2: EXPECTED OUTPUT : \n
+SOLUTION
+     #include<stdio.h>
+     int main()
+     {
+     printf("\\n");
+     return 0;
+     }
